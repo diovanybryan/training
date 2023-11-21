@@ -2,4 +2,4 @@
 Diovany Bryan Gunawan
 
 Assignment 1 command :
-go run main.go Dio
+go run assignmentsatu.go Dio
